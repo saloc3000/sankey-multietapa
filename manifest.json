@@ -1,0 +1,10 @@
+{
+  "visualization": {
+    "id": "sankey_multistage",
+    "label": "Sankey Multietapa",
+    "type": "COMMUNITY",
+    "icon": "extension",
+    "jsUrl": "https://saloc3000.github.io/sankey-multietapa/index.js",
+    "cssUrl": "https://saloc3000.github.io/sankey-multietapa/index.css"
+  }
+}
