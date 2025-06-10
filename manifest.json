@@ -2,10 +2,10 @@
   "name": "Sankey Multietapa",
   "organization": "saloc3000",
   "description": "Visualización Sankey con múltiples etapas",
-  "logoUrl": "https://saloc3000.github.io/sankey-multietapa/icon.png",
-  "supportUrl": "",
-  "privacyPolicyUrl": "",
-  "packageUrl": "",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png",
+  "supportUrl": "https://github.com/saloc3000/sankey-multietapa/issues",
+  "privacyPolicyUrl": "https://github.com/saloc3000/sankey-multietapa/blob/main/PRIVACY.md",
+  "packageUrl": "https://github.com/saloc3000/sankey-multietapa",
   "devMode": true,
   "components": [
     {
